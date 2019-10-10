@@ -1,0 +1,11 @@
+C:\Users\DIANA M\source\repos\PROYECTO_FACTURACION_CAPAS\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\DIANA M\source\repos\PROYECTO_FACTURACION_CAPAS\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\DIANA M\source\repos\PROYECTO_FACTURACION_CAPAS\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\DIANA M\source\repos\PROYECTO_FACTURACION_CAPAS\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\DIANA M\source\repos\PROYECTO_FACTURACION_CAPAS\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\DIANA M\source\repos\PROYECTO_FACTURACION_CAPAS\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\DIANA M\source\repos\PROYECTO_FACTURACION_CAPAS\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\DIANA M\source\repos\PROYECTO_FACTURACION_CAPAS\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\DIANA M\source\repos\PROYECTO_FACTURACION_CAPAS\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\DIANA M\source\repos\PROYECTO_FACTURACION_CAPAS\CapaNegocio\bin\Debug\Common.dll
+C:\Users\DIANA M\source\repos\PROYECTO_FACTURACION_CAPAS\CapaNegocio\bin\Debug\Common.pdb
